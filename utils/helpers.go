@@ -9,7 +9,7 @@ import (
 	"text/tabwriter"
 	"time"
 
-	c "github.com/likjou/TBitTorrent/config"
+	c "github.com/didnt1able/TBitTorrent/config"
 
 	"github.com/cenkalti/rain/torrent"
 	human "github.com/dustin/go-humanize"
