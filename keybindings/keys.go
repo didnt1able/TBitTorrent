@@ -3,7 +3,7 @@ package keybindings
 import (
 	"log"
 
-	u "github.com/likjou/TBitTorrent/utils"
+	u "github.com/didnt1able/TBitTorrent/utils"
 
 	"github.com/jroimartin/gocui"
 )
