@@ -14,8 +14,7 @@ jobs:
 
     steps:
      
-     -name: tidy
-       run: go mod tidy
+     
      
      - name: Check out code into the Go module directory
         uses: actions/checkout@v2
@@ -27,7 +26,10 @@ jobs:
         with:
           go-version: 1.18
         id: go
-
+      
+      -name: tidy
+       run: go mod tidy
+      
       - name: Run GoReleaser
         uses: goreleaser/goreleaser-action@master
         with:
