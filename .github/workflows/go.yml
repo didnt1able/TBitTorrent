@@ -28,10 +28,10 @@ jobs:
       - name: Test
         run: go test  ./...
 
-      - name: Send coverage
-        uses: shogo82148/actions-goveralls@v1
-        with:
-          path-to-profile: covprofile
+#      - name: Send coverage
+#        uses: shogo82148/actions-goveralls@v1
+#        with:
+#          path-to-profile: covprofile
 
 #  lint:
 #    name: Lint
