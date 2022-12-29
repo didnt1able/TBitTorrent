@@ -1,4 +1,4 @@
-module github.com/likjou/TBitTorrent
+module github.com/didnt1able/TBitTorrent
 
 go 1.18
 
