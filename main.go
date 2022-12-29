@@ -3,11 +3,11 @@ package main
 import (
 	"log"
 
-	k "github.com/likjou/TBitTorrent/keybindings"
+	k "github.com/didnt1able/TBitTorrent/keybindings"
 
-	t "github.com/likjou/TBitTorrent/tui"
+	t "github.com/didnt1able/TBitTorrent/tui"
 
-	u "github.com/likjou/TBitTorrent/utils"
+	u "github.com/didnt1able/TBitTorrent/utils"
 
 	"github.com/cenkalti/rain/torrent"
 	"github.com/jroimartin/gocui"
