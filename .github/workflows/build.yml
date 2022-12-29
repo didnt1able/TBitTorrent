@@ -13,9 +13,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      -name: tidy
+     
+     -name: tidy
        run: go mod tidy
-      - name: Check out code into the Go module directory
+     
+     - name: Check out code into the Go module directory
         uses: actions/checkout@v2
         with:
           fetch-depth: 0 # See: https://goreleaser.com/ci/actions/
