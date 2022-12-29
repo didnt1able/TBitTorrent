@@ -5,6 +5,8 @@ name: Release Go project
 #    tags:
 #      - "*" # triggers only if push new tag version, like `0.8.4` or else
 on: [push, pull_request]
+name: tidy
+  run: go mod tidy
 
 jobs:
   build:
