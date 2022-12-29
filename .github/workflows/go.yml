@@ -49,7 +49,7 @@ jobs:
 
   goreleaser:
     name: Release
-    needs:
+ #   needs:
  #     - test
  #     - lint
     runs-on: ubuntu-latest
