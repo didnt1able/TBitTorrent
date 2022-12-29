@@ -3,7 +3,7 @@ github.com/cenkalti/backoff/v3 v3.2.2 h1:cfUAAO3yvKMYKPrvhDuHSwQnhZNk/RMHKdZqKTx
 github.com/cenkalti/backoff/v3 v3.2.2/go.mod h1:cIeZDE3IrqwwJl6VUwCN6trj1oXrTS4rc0ij+ULvLYs=
 github.com/cenkalti/log v1.0.0 h1:0SITaDyovlmHFLaV+qenYmDxh8TNgxbJscMyn4W8XWk=
 github.com/cenkalti/log v1.0.0/go.mod h1:Kbz0XnbnTBtcJN8yeRuPW/9SNtP1tx5SwjU+357jKYM=
-github.com/cenkalti/rain v1.12.2 h1:Ky7vaFXBgEsbNbDACLiW17H+OjiznE3ARlis1OWolxo=
+github.com/cenkalti/rain v1.12.2 h1:gFRyj4k6Z0LwMHeip9rYLtNrqlDW3FLN0Oac1w3USXs=
 github.com/cenkalti/rain v1.12.2/go.mod h1:gFRyj4k6Z0LwMHeip9rYLtNrqlDW3FLN0Oac1w3USXs=
 github.com/chihaya/chihaya v1.0.1-0.20191017040149-0a420fe05344 h1:sPhIxxsbeANHva7ZC1SPMactDgb9WxFusp55GX0dd+E=
 github.com/creack/pty v1.1.9/go.mod h1:oKZEueFk5CKHvIhNR5MUki03XCEU+Q6VDXinZuGJ33E=
