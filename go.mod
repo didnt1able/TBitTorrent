@@ -3,7 +3,7 @@ module github.com/didnt1able/TBitTorrent
 go 1.18
 
 require (
-	github.com/cenkalti/rain v1.11.0
+	github.com/cenkalti/rain v1.12.2
 	github.com/dustin/go-humanize v1.0.0
 	github.com/jroimartin/gocui v0.5.0
 	github.com/olekukonko/tablewriter v0.0.5
